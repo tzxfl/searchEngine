@@ -25,3 +25,5 @@ https://ja.wordpress.org
 http://www.rehbock.com
 6
 ```
+详情见个人博客
+博客地址：http://weixinglian.com/index.php/archives/38/
